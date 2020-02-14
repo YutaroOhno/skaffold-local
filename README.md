@@ -2,7 +2,7 @@
 ```
 $ brew install skaffold
 ```
-docker desktopも入れといてくれ。
+docker desktopも入れてKubernetesを有効化しておいてくれ。
 
 ## 動かそう
 ```
